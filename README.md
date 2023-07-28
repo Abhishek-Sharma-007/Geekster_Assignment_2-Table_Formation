@@ -30,8 +30,7 @@
 
     **OUTPUT**
 
-    ![image](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_2-Table_Formation/assets/84591804/b84582d1-9d0b-4e89-b499-42d7d2caba6d)
-
+    ![image](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_2-Table_Formation/assets/84591804/93f3d5e3-0f2a-45a7-88b5-1308f8ae8b9f)
 
 ---
 # Submission Required
