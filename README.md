@@ -36,5 +36,5 @@
 ---
 # Submission Required
 - **GitHub Repository Link:** [Click Me](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_2-Table_Formation) 
-- **README.md File Link:** [Click Here]()  
+- **README.md File Link:** [Click Here](https://github.com/Abhishek-Sharma-007/Geekster_Assignment_2-Table_Formation/blob/master/README.md)  
 - **Hosted Link:** [Tap On](https://abhishek-sharma-007.github.io/Geekster_Assignment_2-Table_Formation/)
